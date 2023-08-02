@@ -1,0 +1,4 @@
+LNH.C
+LNHFunctionObject.C
+
+LIB = $(FOAM_USER_LIBBIN)/libutilityFunctionObjectsLNH
