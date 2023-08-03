@@ -34,6 +34,9 @@ SourceFiles
     LNH.C
     IOLNH.H
 
+Author
+    Ehsan Golab, SUT. All rights reserved.
+
 \*---------------------------------------------------------------------------*/
 
 #ifndef LNH_H
